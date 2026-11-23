@@ -8,6 +8,7 @@ Every drop lists the role, **what the employer is actually asking for**, and **h
 
 | Date | Roles | File |
 |---|---|---|
+| 23 Nov 2026 | 6 roles in Lagos: SOC Intern to Senior AppSec (Paystack) | [jobs/2026-11-23.md](jobs/2026-11-23.md) |
 | 21 Nov 2026 | 6 roles in Lagos: IT Support to Senior SOC | [jobs/2026-11-21.md](jobs/2026-11-21.md) |
 
 ## 🎯 How to read a job ad
